@@ -1,0 +1,57 @@
+nav a{
+    padding: 3px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}
+nav{
+    margin:15px;
+    padding: 10px;
+    background-color:pink;
+}
+h2{
+    background-color: rgb(140, 111, 73);
+    color:rgb(33, 25, 12);
+    padding: 10px;
+    text-decoration: underline;
+    margin:3px;
+    border-radius: 10px;
+    
+}
+body{
+    background-color: rgb(206, 214, 255);
+}
+img{
+    height:120px;
+    width: 140px;
+    border:3px solid rgb(121, 116, 43) ;
+    border-radius: 10px;
+    
+}
+header a{
+    background-color: rgb(212, 155, 155);
+    color:black;
+    text-decoration: underline;
+    border-radius: 10px;
+    
+}
+main{
+    padding: 1px;
+    margin: 5px;
+}
+i{
+font-size:30px;
+}
+main{
+background-color:rgb(247, 247, 247);
+}
+footer{
+    background-color: rgb(230, 232, 178);
+}
+main h1{
+    border-radius: 10px;
+}
+
+
+
